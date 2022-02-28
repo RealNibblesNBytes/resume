@@ -1,0 +1,153 @@
+body {
+  background-image: linear-gradient(#bd80ff, #eeb3ff);
+}
+
+div.constrain {
+  max-width: 700px;
+  height: 100%;
+  margin: auto;
+}
+
+div.titleNameBack {
+  height: 60px;
+  padding: 0px;
+}
+
+h1.nameText {
+  padding: 0px;
+  color: #ffffff;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.separateLine {
+  background-image: radial-gradient(#ffffff 20%, transparent);
+  height: 2px;
+}
+
+div.description {
+  height: 100px;
+}
+
+h2.descText {
+  padding: 0px;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.info {
+  height: 800px;
+  border-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: inset 0px 10px 8px #a0a0a0;
+  background-color: #ffffff;
+}
+
+div.profileBox {
+  background-color: #b3e4ff;
+  width: 300px;
+  height: 360px;
+  color: #000000;
+  border-radius: 10px;
+  padding: 0px;
+  transform: translate(-185px, 30px);
+  box-shadow: 8px 10px 20px #c0c0c0;
+}
+
+h1.profileTitle {
+  padding: 10px;
+  height: 20px;
+}
+
+div.profDivLine {
+  background-color: #000000;
+  height: 2px;
+  width: 90%;
+}
+
+h2.profile {
+  text-align: left;
+  width: 70%;
+  color: #000000;
+  font-size: 13px;
+}
+
+div.projectBox {
+  background-color: #ffd4de;
+  width: 350px;
+  height: 360px;
+  color: #000000;
+  border-radius: 10px;
+  padding: 0px;
+  transform: translate(160px, -346px);
+  box-shadow: 8px 10px 20px #c0c0c0;
+}
+
+h1.projectTitle {
+  padding: 10px;
+  height: 20px;
+  font-size: 29px;
+}
+
+div.projDivLine {
+  background-color: #000000;
+  height: 2px;
+  width: 90%;
+}
+
+h2.project {
+  text-align: left;
+  width: 80%;
+  color: #000000;
+  font-size: 13px;
+}
+
+div.experienceBox {
+  background-color: #d4ffd8;
+  width: 650px;
+  height: 360px;
+  color: #000000;
+  border-radius: 10px;
+  padding: 0px;
+  transform: translate(0px, -346px);
+  box-shadow: 8px 10px 20px #c0c0c0;
+}
+
+h1.experienceTitle {
+  padding: 10px;
+  height: 20px;
+  font-size: 29px;
+}
+
+div.expDivLine {
+  background-color: #000000;
+  height: 2px;
+  width: 90%;
+}
+
+h2.experience {
+  text-align: left;
+  width: 80%;
+  color: #000000;
+  font-size: 15px;
+}
+
+div.pad {
+  height: 100px;
+}
+
+div.contactInfo {
+  color: #ffffff;
+  padding: 3px;
+  height: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(#9000ff, #4700e0);
+  overflow: visible;
+}
+
+div.contactDivLine {
+  background-color: #ffffff;
+  height: 2px;
+  width: 90%;
+}
